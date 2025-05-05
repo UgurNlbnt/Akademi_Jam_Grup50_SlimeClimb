@@ -15,11 +15,11 @@ Bu iki slime, yalnızca yolları değil; zamanı, mekânı ve kendi içlerindeki
 
 ## 🖼️ Oyun Görselleri
 
-![jam1](https://github.com/user-attachments/assets/5da2616d-b5a1-4afd-981f-b08ecd186337)
-![jam2](https://github.com/user-attachments/assets/69d7bfff-a514-42ce-b61e-44c787639dbd)
-![jam3](https://github.com/user-attachments/assets/c26aa3ad-109f-4ee0-b315-f80dc3f91f13)
-![jam4](https://github.com/user-attachments/assets/91dadaa0-4094-466e-9d64-1655d6fea0da)
-![jam6](https://github.com/user-attachments/assets/50879375-fb99-495e-836d-5e92ee213e0b)
+## ![jam1](https://github.com/user-attachments/assets/5da2616d-b5a1-4afd-981f-b08ecd186337)
+## ![jam2](https://github.com/user-attachments/assets/69d7bfff-a514-42ce-b61e-44c787639dbd)
+## ![jam3](https://github.com/user-attachments/assets/c26aa3ad-109f-4ee0-b315-f80dc3f91f13)
+## ![jam4](https://github.com/user-attachments/assets/91dadaa0-4094-466e-9d64-1655d6fea0da)
+## ![jam6](https://github.com/user-attachments/assets/50879375-fb99-495e-836d-5e92ee213e0b)
 
 
 ## 🎮 Oyun Tanımı
