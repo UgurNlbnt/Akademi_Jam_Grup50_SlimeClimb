@@ -32,11 +32,12 @@ Bu iki slime, yalnızca yolları değil; zamanı, mekânı ve kendi içlerindeki
 
 
 ## 🕹️ Nasıl Oynanır?
--Kontrol tuşlarını kullanarak basamakları tırmanın.
--Bastığınız basamak yok olur, bu yüzden aynı basamağa tekrar basamazsınız.
--Kapanları engelleyen başlangıç basamağı, oyun başladıktan kısa bir süre sonra kaybolur.
--Aşağı düşerseniz kapanlara yem olursunuz.
--En fazla puanı alan slime oyunu kazanır!
+## -Kontrol tuşlarını kullanarak basamakları tırmanın.
+## -Bastığınız basamak yok olur, bu yüzden aynı basamağa tekrar basamazsınız.
+## -Kapanları engelleyen başlangıç basamağı, oyun başladıktan kısa bir süre sonra kaybolur.
+## -Aşağı düşerseniz kapanlara yem olursunuz.
+## -En fazla puanı alan slime oyunu kazanır!
+
 
 
 ## 👥 Takım
