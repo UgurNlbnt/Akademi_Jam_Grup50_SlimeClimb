@@ -41,9 +41,9 @@ Bu iki slime, yalnızca yolları değil; zamanı, mekânı ve kendi içlerindeki
 
 ## 👥 Takım
 2025 Yapay Zeka ve Teknoloji Akademisi – Game Jam – Grup 50
--Uğur NALBANT
--Cansu Öznur AVCI
--Zeynep SALMAN
+## Uğur NALBANT
+## Cansu Öznur AVCI
+## Zeynep SALMAN
 
 
 
